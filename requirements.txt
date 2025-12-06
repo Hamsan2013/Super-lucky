@@ -1,0 +1,6 @@
+PySide6
+openai
+pyttsx3
+sounddevice
+scipy
+vosk
